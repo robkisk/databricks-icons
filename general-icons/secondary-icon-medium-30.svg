@@ -1,0 +1,13 @@
+<svg width="166" height="166" viewBox="0 0 166 166" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M166 165.991L166 0L0.0639801 -7.44047e-09L0.0639801 165.991L166 165.991Z" fill="#618794"/>
+<path d="M0 166V0.00878906C45.7788 0.00878906 82.968 37.2104 82.968 83.0045C82.968 128.896 45.8764 166 0 166Z" fill="#1B3139"/>
+<path d="M165.936 0.00854492V166C120.157 166 82.968 128.798 82.968 83.0043C82.968 37.2102 120.157 0.00854492 165.936 0.00854492Z" fill="#EEEDE9"/>
+<path d="M165.936 129.873H0" stroke="#618794" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M165.936 106.438H0" stroke="#618794" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M165.936 59.5703H0" stroke="#618794" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M165.936 36.1362H0" stroke="#618794" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M0 83.0049H73.4023" stroke="#EEEDE9" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M62.8605 72.459L73.4023 83.0043L62.8605 93.5496" stroke="#EEEDE9" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M165.936 83.0049H92.6313" stroke="#1B3139" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M103.173 93.5496L92.6313 83.0043L103.173 72.459" stroke="#1B3139" stroke-width="2" stroke-miterlimit="10"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="166" height="166" viewBox="0 0 166 166" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M83 0H0V83H83V0Z" fill="#00A972"/>
+<path d="M166 0H83V83H166V0Z" fill="#9ED6C4"/>
+<path d="M83 166H166V83L83 83L83 166Z" fill="#00A972"/>
+<path d="M0 166H83L83 83L0 83L0 166Z" fill="#9ED6C4"/>
+<path d="M37 70L83.0211 97L129 70L83.0211 43L37 70Z" fill="#1B3139"/>
+<mask id="mask0_210_3382" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37" y="43" width="92" height="54">
+<path d="M128.013 70L83.021 96.4202L37.9881 70L83.021 43.5798L128.013 70Z" fill="#1B5162" stroke="#1B5162"/>
+</mask>
+<g mask="url(#mask0_210_3382)">
+<circle cx="83" cy="70" r="34" fill="white"/>
+</g>
+<path d="M83 36C64.2223 36 49 51.2223 49 70H117C117 51.2223 101.778 36 83 36Z" fill="white"/>
+<path d="M48 89L83.0161 109L118 89" stroke="#1B3139" stroke-width="2"/>
+<path d="M57 106.102L83.0119 121.102L109 106.102" stroke="#1B3139" stroke-width="2"/>
+<path d="M66 123L83.0078 133L100 123" stroke="#1B3139" stroke-width="2"/>
+</svg>
